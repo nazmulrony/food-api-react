@@ -1,0 +1,14 @@
+.details {
+    position: sticky;
+    top: 1%;
+    padding: .5rem;
+}
+
+.img-container {
+    margin: 0 .5rem;
+}
+
+.img-container img {
+    width: 100%;
+    border-radius: 12px;
+}

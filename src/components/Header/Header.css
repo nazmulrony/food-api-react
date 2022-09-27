@@ -1,0 +1,19 @@
+.header {
+    height: 4rem;
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+    background-color: rgb(40, 39, 41);
+    padding: 1rem 4rem;
+    color: #f7f7f7;
+
+}
+
+.header-logo {
+    width: 3rem;
+    margin-right: 1rem;
+}
+
+.header img {
+    width: 100%;
+}
